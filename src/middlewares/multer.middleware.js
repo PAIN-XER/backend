@@ -14,8 +14,3 @@ const storage = multer.diskStorage({
 export const upload = multer({ 
     storage, 
 })
-
-(6+11)
-17+8
-25
-7
